@@ -24,3 +24,4 @@ For more details about **Network Architecture & Model** refer [Mini_Xception, 20
 
 ### Testing the Model on Images
 
+<img src = "https://github.com/gulshan-mittal/Facial-Emotion-Detection/blob/master/results/result_test_3.png?raw=true">
