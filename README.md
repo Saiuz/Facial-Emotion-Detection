@@ -1,2 +1,2 @@
 # Facial-Emotion-Detection
-State of the Art Network for Facial emotion Detection
+Detect Emotions on the Face, State of the art Network
