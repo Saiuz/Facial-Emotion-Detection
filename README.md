@@ -1,4 +1,7 @@
 # Facial-Emotion-Detection
+
+ <img src = "https://github.com/gulshan-mittal/Facial-Emotion-Detection/blob/master/emotions1.png?raw=true" width= 20% height =15% align='right'>
+ 
 ### Set up the environment
 
 * ``virtualvenv -p /usr/bin/python3.5+ emoji``
