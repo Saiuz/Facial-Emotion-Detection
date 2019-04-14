@@ -21,5 +21,3 @@ For more details about **Network Architecture & Model** refer [Mini_Xception, 20
 
 ### Testing the Model on Images
 
-
-
